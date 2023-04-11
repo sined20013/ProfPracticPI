@@ -1,8 +1,14 @@
 
 class Autorization {
 
+	// регистрация
 	void SignUp() {
-		// регистрация
+		
+	}
+
+	// вход
+	void LogIn() {
+		
 	}
 
 };
