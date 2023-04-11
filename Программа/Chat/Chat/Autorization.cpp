@@ -11,4 +11,8 @@ class Autorization {
 		
 	}
 
+	// забыл пароль
+	void ForgotPass() {
+
+	}
 };
