@@ -36,14 +36,6 @@ namespace PPPI_game
         }
 
         /// <summary>
-        /// Прижок.
-        /// </summary>
-        public void Jump()
-        {
-
-        }
-
-        /// <summary>
         /// Ускоренный бег.
         /// </summary>
         public void Accelerate()
