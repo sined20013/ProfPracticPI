@@ -5,5 +5,16 @@ class Interface {
 	void TelephoneInterface() {
 	
 	}
+	
+	// интерфейс для пк
+	void KomputerInterface() {
 
+		
+	}
+
+	// интерфейс для периферии
+	void WearInterface() {
+
+		
+	}
 };
