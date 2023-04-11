@@ -36,6 +36,14 @@ namespace PPPI_game
         }
 
         /// <summary>
+        /// Полёт персонажа.
+        /// </summary>
+        public void Fly()
+        {
+
+        }
+
+        /// <summary>
         /// Ускоренный бег.
         /// </summary>
         public void Accelerate()
