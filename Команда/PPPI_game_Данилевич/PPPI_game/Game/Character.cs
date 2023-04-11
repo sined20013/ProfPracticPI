@@ -58,5 +58,13 @@ namespace PPPI_game
         {
 
         }
+
+        /// <summary>
+        /// Плыть.
+        /// </summary>
+        public void Swim()
+        {
+
+        }
     }
 }
