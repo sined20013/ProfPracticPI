@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Slavik\\OneDrive\\Рабочий стол\\PPPI denis\\Новая папка\\ProfPracticPI\\Команда\\PPPI_game_Данилевич\\PPPI_game\\PPPI_game.csproj": {}
+    "C:\\Users\\Vlad\\Desktop\\ALLabs\\ПППИ\\PPPI\\Программа\\PPPI_game\\PPPI_game\\PPPI_game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Slavik\\OneDrive\\Рабочий стол\\PPPI denis\\Новая папка\\ProfPracticPI\\Команда\\PPPI_game_Данилевич\\PPPI_game\\PPPI_game.csproj": {
+    "C:\\Users\\Vlad\\Desktop\\ALLabs\\ПППИ\\PPPI\\Программа\\PPPI_game\\PPPI_game\\PPPI_game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Slavik\\OneDrive\\Рабочий стол\\PPPI denis\\Новая папка\\ProfPracticPI\\Команда\\PPPI_game_Данилевич\\PPPI_game\\PPPI_game.csproj",
+        "projectUniqueName": "C:\\Users\\Vlad\\Desktop\\ALLabs\\ПППИ\\PPPI\\Программа\\PPPI_game\\PPPI_game\\PPPI_game.csproj",
         "projectName": "PPPI_game",
-        "projectPath": "C:\\Users\\Slavik\\OneDrive\\Рабочий стол\\PPPI denis\\Новая папка\\ProfPracticPI\\Команда\\PPPI_game_Данилевич\\PPPI_game\\PPPI_game.csproj",
-        "packagesPath": "C:\\Users\\Slavik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Slavik\\OneDrive\\Рабочий стол\\PPPI denis\\Новая папка\\ProfPracticPI\\Команда\\PPPI_game_Данилевич\\PPPI_game\\obj\\",
+        "projectPath": "C:\\Users\\Vlad\\Desktop\\ALLabs\\ПППИ\\PPPI\\Программа\\PPPI_game\\PPPI_game\\PPPI_game.csproj",
+        "packagesPath": "C:\\Users\\Vlad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vlad\\Desktop\\ALLabs\\ПППИ\\PPPI\\Программа\\PPPI_game\\PPPI_game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Slavik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vlad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,11 +45,17 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

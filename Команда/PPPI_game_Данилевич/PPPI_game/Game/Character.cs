@@ -26,6 +26,18 @@ namespace PPPI_game
         /// </summary>
         private int _movementSpeed;
 
+        /// <summary>
+        /// Конструктор класса Character
+        /// </summary>
+        /// <param name="HP">Очки здоровья персонажа</param>
+        /// <param name="STP">Очки действий персонажа</param>
+        /// <param name="movementSpeed">Скорость передвижения персонажа</param>
+        public Character(int HP, int STP, int movementSpeed)
+        {
+            _HP = HP;
+            _STP = STP;
+            _movementSpeed = movementSpeed;
+        }
 
         /// <summary>
         /// Бег персонажа.
@@ -36,9 +48,9 @@ namespace PPPI_game
         }
 
         /// <summary>
-        /// Полёт персонажа.
+        /// Прижок.
         /// </summary>
-        public void Fly()
+        public void Jump()
         {
 
         }
@@ -55,14 +67,6 @@ namespace PPPI_game
         /// Приседание.
         /// </summary>
         public void Squat()
-        {
-
-        }
-
-        /// <summary>
-        /// Плыть.
-        /// </summary>
-        public void Swim()
         {
 
         }

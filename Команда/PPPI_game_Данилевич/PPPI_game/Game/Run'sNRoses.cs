@@ -27,12 +27,6 @@ namespace PPPI_game.Game
             _magazine = magazine;
         }
 
-        // Метод отдачи оружия.
-        public void Recoil()
-        {
-
-        }
-
         // Метод стрельбы.
         public void Shoot()
         {
