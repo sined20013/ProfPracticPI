@@ -33,8 +33,14 @@ namespace PPPI_game.Network
             
         }
 
-        // Проверка сединения
+        // Проверка соединения
         public void СheckСonnection()
+        {
+
+        }
+
+        // Ошибка
+        public void Error()
         {
 
         }
